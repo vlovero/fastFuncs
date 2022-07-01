@@ -1,0 +1,2 @@
+setuptools
+numpy>=1.22
